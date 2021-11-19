@@ -1,0 +1,4 @@
+name: 'satvik_theme'
+type: theme
+base theme: olivero
+core_version_requirement: ^8 || ^9 
